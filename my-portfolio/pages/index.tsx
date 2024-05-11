@@ -1,6 +1,6 @@
 import MobileNav from "@/Components/MobileNav";
-import Nav from "@/Components/Nav"
-import Hero from "@/Components/Hero"
+import Nav from "@/Components/Nav";
+import Hero from "@/Components/Hero";
 import React, { useState } from 'react'
 
 const HomePage = () => {
